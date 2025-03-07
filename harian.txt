@@ -2,3 +2,5 @@
 - sholat
 - push rank sampai magrib
 - buka
+- taraweh
+- push rank sampai sahur
